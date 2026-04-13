@@ -1,1 +1,3 @@
 # Notas 📝
+
+Este repositorio funciona como un archivo digital personal, un espacio donde documento el aprendizaje constante, reflexiones y hallazgos de mi día a día. Aquí conviven desde apuntes técnicos y proyectos en desarrollo hasta pensamientos sobre mi crecimiento personal, con el fin de centralizar mi conocimiento y mantener un registro organizado de mi evolución en todas las facetas de mi vida.
